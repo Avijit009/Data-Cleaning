@@ -10,4 +10,13 @@ to use this data set for the project
 
 3-> Import the Raw data
 
-4-> 
+Project Work-
+
+-- Remove Duplicates
+
+-- Standardize the data
+
+-- Null or Blank values
+
+-- Remove unnecessary row/column
+
