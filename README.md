@@ -8,4 +8,6 @@ to use this data set for the project
 
 2-> To create the table {Used - Table data import wizerd}
 
-3-> 
+3-> Import the Raw data
+
+4-> 
