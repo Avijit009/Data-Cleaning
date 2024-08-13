@@ -13,6 +13,7 @@ to use this data set for the project
 Project Work-
 
 -- Remove Duplicates
+  To remove duplicate values, I first try to distinguish the unique column, which is *company. Then I remove the duplicate values.
 
 -- Standardize the data
 
