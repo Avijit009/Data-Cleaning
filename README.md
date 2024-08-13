@@ -8,6 +8,7 @@ First, I created a schema for the dataset to ensure that all the columns were cl
 Using the Table Data Import Wizard, I created a table based on the schema. This table provided the structure needed to import and store the raw data effectively.
 
 3. Importing the Raw Data
+
 I imported the raw data into the newly created table using the wizard. The data was then ready for cleaning and further processing.
 
 Project Work
@@ -20,6 +21,7 @@ To remove duplicate values, I first identified the unique column, company, which
 I standardized the data by identifying and removing any extra spaces, periods, or other unnecessary characters in the columns. After cleaning these inconsistencies, I also standardized the date formats across the dataset to maintain uniformity.
 
 3. Handling Null or Blank Values
+
 I conducted a thorough search for null or blank values across all columns. Where feasible, I replaced these values with appropriate data. For instance, in the industry column, if the company name and location matched a known record, I performed a join operation to fill in the missing industry information.
 
 4. Removing Unnecessary Rows/Columns
