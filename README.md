@@ -27,3 +27,7 @@ I conducted a thorough search for null or blank values across all columns. Where
 4. Removing Unnecessary Rows/Columns
 
 Finally, I removed any unnecessary row (row_num) that were not relevant to the analysis. This step ensured that the dataset was as streamlined and efficient as possible for further use.
+
+@ Exploratory Data Analysis
+
+After thoroughly analyzing the cleaned data, I explored various dimensions, such as layoffs by year, month, country, industry, and company, to gain deeper insights into the trends and patterns.
