@@ -26,4 +26,4 @@ I conducted a thorough search for null or blank values across all columns. Where
 
 4. Removing Unnecessary Rows/Columns
 
-Finally, I removed any unnecessary rows or columns that were not relevant to the analysis. This step ensured that the dataset was as streamlined and efficient as possible for further use.
+Finally, I removed any unnecessary row (row_num) that were not relevant to the analysis. This step ensured that the dataset was as streamlined and efficient as possible for further use.
